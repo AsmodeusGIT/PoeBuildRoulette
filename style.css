@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
 *,
 *::before,
 *::after {
@@ -38,7 +40,7 @@ body {
 
 .content1 {
   width: 70%;
-  height: 400px;
+  height: 500px;
   background-color: rgba(27, 27, 27, 0.89);
   padding: 20px;
   margin-top: 100px;
@@ -46,8 +48,16 @@ body {
   -moz-box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.75);
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.title {
+  margin-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2em;
+  color: rgba(255, 255, 255, 0.849);
 }
 
 .content1-inside {
