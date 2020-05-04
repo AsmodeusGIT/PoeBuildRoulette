@@ -83,6 +83,7 @@ body {
   margin: 10px;
   text-align: center;
   cursor: pointer;
+  user-select: none;
 }
 
 .roll:hover {

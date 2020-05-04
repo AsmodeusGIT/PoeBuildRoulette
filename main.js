@@ -55,7 +55,7 @@ activeSkills = [
   'Toxic Rain',
   'Unearth',
   'Venom Gyre',
-  'Vipers Strike',
+  'Viper Strike',
   'Volatile Dead',
   'Whirling Blades',
   'Wild Strike',
