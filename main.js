@@ -114,7 +114,7 @@ activeSkills = [
   'Frost Bomb',
   'Frost Wall',
   'Frostblink',
-  'Frostblolt',
+  'Frostbolt',
   'Glacial Cascade',
   'Ice Nova',
   'Ice Spear',
