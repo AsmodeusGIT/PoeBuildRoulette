@@ -86,7 +86,7 @@ activeSkills = [
   'Smite',
   'Static Strike',
   'Summon Flame Golem',
-  'Summon Stone Gomel',
+  'Summon Stone Golem',
   'Sunder',
   'Sweep',
   'Tectonic Slam',
