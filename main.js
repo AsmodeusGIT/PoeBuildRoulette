@@ -93,7 +93,7 @@ activeSkills = [
   'Vengeance',
   'Vigilant Strike',
   'Arc',
-  'Arctic Breath',
+  'Creeping Frost',
   'Armageddon Brand',
   'Ball Lightning',
   'Bane',
@@ -155,6 +155,10 @@ activeSkills = [
   'Vortex',
   'Wave of Conviction',
   'Winter Orb',
+  'Earthshatter',
+  'Arcanist Brand',
+  'Penance Brand',
+  'Wintertide Brand',
 ];
 
 ascendancies = [
