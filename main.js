@@ -34,6 +34,7 @@ activeSkills = [
   'Galvanic Arrow',
   'Herald of Agony',
   'Hex Blast',
+  'Hydrosphere',
   'Ice Shot',
   'Ice Trap',
   'Lacerate',
