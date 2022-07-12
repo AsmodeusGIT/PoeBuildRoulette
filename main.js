@@ -77,7 +77,6 @@ activeSkills = [
   'Volatile Dead',
   'Whirling Blades',
   'Wild Strike',
-  'Abyssal Cry',
   'Ancestral Protector',
   'Ancestral Warchief',
   'Animate Guardian',
